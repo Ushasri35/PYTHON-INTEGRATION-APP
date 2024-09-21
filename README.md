@@ -1,1 +1,2 @@
-# PYTHON-INTEGRATION-APP
+def multiplication(a,b);
+   return a*b
